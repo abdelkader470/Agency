@@ -17,7 +17,7 @@
   transform: translateY(2px);
 }
 .free-btn {
-  margin-left: 30px !important;
+
   padding: 8px 25px !important;
 }
 .hero {
@@ -27,21 +27,21 @@
 }
 .hero-head {
   transform: translateY(100px);
-  margin-left: 90px;
+  margin-left:10%;
   color: white;
 }
 .hero p {
   transform: translateY(100px);
-  margin-left: 90px;
+  margin-left: 10%;
   color: white;
 }
 .hero .btn1 {
   transform: translateY(100px);
-  margin-left: 90px;
+  margin-left: 10%;
 }
 .hero .btn2 {
   transform: translateY(100px);
-  margin-left: 20px;
+  margin-left:10%;
   background-color: transparent;
   border-color: white;
   color: white;
